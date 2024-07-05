@@ -2,7 +2,7 @@
 
 Hand Controlled Arcade is an interactive Python-based arcade game suite that utilizes hand gestures to control the main menu and play various classic games. The project uses OpenCV for hand tracking and Pygame for game development. 
 
-![Main Menu Image](main_menu.png)
+![Main Menu Image](demo_images/main_menu.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ Hand Controlled Arcade is an interactive Python-based arcade game suite that uti
   - Select an option by putting your index finger and thumb together.
 - **In-Game Menu**: Pause and resume games, or return to the main menu.
 
-![Space Invaders Image](space_invaders.png)
+![Space Invaders Image](demo_images/space_invaders.png)
 
 ## Prerequisites
 
